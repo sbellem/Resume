@@ -1,67 +1,143 @@
-# Nathaniel Welch
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+# Sylvain Bellemare
 
-## Background
+* [sbellem@gmail.com](mailto:sbellem@gmail.com)
+* <http://de.linkedin.com/in/sylvainbellemare>
+* 49 151 281 65 675
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
+## Academic Background
+### [Concordia University](http://www.cs.concordia.ca), Montréal, Canada
 
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+#### Bachelor of Computer Science, Honours Computer Applications, (2010)
 
-## Education
+##### Fields of application: physics and artificial intelligence
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
 
-## Proficiency
+## Professional Experience
 
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
+### [Lieferheld GmbH](http://www.lieferheld.de)
+#### Python Backend Developer
+##### Berlin, Germany <> February 2012 - July 2012
 
-## Experience
+* Python/Django web development with PostgreSQL/PostGIS.
+* Git and GitHub workflows for source code management.
+* Scrum/agile development method using JIRA.
+* Worked with API RESTful documentation tools: [source2swagger](https://github.com/solso/source2swagger), [swagger-ui](https://github.com/wordnik/swagger-ui), [swagger-codegen](https://github.com/wordnik/swagger-codegen) to document and test a [web.py](http://webpy.org) -based API, wired to a Django application.
+* Helped writing API documentation using [Sphinx](http://sphinx.pocoo.org).
 
-### Google.com, San Francisco, CA
 
-#### Site Reliability Engineer - April 2012 to Present
 
-I work as an SRE for Google Compute Engine and Google Cloud Storage
+### [Rockwell Automation](http://www.rockwellautomation.com)
+#### Software Developer & System Integrator
+##### San Jose, California, & Karlsruhe, Germany <> April 2011 - January 2012
 
-#### Software Engineer - August 2011 to Present 
+* Java software development for the Quality Module of Rockwell's CPG library.
+   * Implementation of a 2D graphing component.
+   * Implementation of a component to compute Westgard (statistical) rules.
+* Installation and configuration of JBoss/FTPC on Windows Server 2003 & 2008.
+* Installation and configuration of Rockwell's Data Management module Live Transfer.
 
-I continue to maintain Punchd, post-acquisition.
+**Note:** *Contracting work through Atachi Systems.*
 
-### Punchd, Mountain View, CA
 
-#### Software Developer - May 2011 to July 2012
+###[Align Technology](http://www.aligntech.com)
+#### MES Software Engineer
+##### San Jose, California <> July 2010 - March 2011
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+*Software Engineering and System Administration work centered around a J2EE application: [FactoryTalk ProductionCentre](http://www.rockwellautomation.com/rockwellsoftware/production/productioncentre/), a [Manufacturing Execution System](http://en.wikipedia.org/wiki/Manufacturing_execution_system) software product by [Rockwell Automation](http://www.rockwellautomation.com/).*
 
-### iFixit.com, San Luis Obispo CA
+* Design and implementation of software solutions (in [Pnuts](http://en.wikipedia.org/wiki/Pnuts)).
+* Reverse-engineering of Enterprise Java Beans programs into Java Web Services programs. Developed and modified Java code.
+* Worked with the FTPC 8.1 Build Utility, to disassemble dsx files into xml structures, and to re-assemble xml files into dsx files.
 
-#### Software Developer - April 2009 to April 2011
+* Implementation of an [Apache Ant](http://ant.apache.org/) script, and multiple Bash scripts, to [automate](http://en.wikipedia.org/wiki/Automata_theory) part of the FTPC & JBoss installation/configuration procedures, on remote Linux servers.
+* Installation and configuration of FTPC 8.1 & 9.0, on JBoss/Linux platforms.
+* Installation and configuration of FTPC 9.0 Live Transfer & Purge, for the transfer & purging of data between production and historical databases.
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
+* Wrote custom documentation (in LaTeX) on installing and configuring FTPC 8.1 & 9.0 on Red Hat JBoss/Linux platforms.
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+**Note:** *Contracting work through Atachi Systems.*
 
-### Adobe Systems Incorporated, San Francisco CA
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+### [Atachi Systems](http://atachisystems.com/)
+#### Solution Engineer
+##### San Jose, United States <> July 2010 - January 2012
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
+MES software engineer with a focus on FactoryTalk ProductionCenter from Rockwell Automation.
 
-### BSA Camp Oljato, Lakeshore CA
 
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
+### [Atachi Enterprise Solutions](http://atachisystems.com/)
+#### Solution & Support Engineer
+##### Montréal, Canada <> September 2009 - July 2010
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
+* Software development with the .NET Framework 3.5, using C#.
+* Software development with Rockwell Pnuts API. Developed/scripted simple forms, subroutines, grids, data collection sets, and basic lot processing tasks.
+* Software development with Rockwell Java Web Services API.
+* FTPC support engineering work: Basic monitoring of interface managers, historical transfers, and purge operations.
+
+
+### [CLaC Laboratory, Computer Science Department, Concordia University](http://clac.cs.concordia.ca)
+#### Research Assistant
+##### Montréal, Canada <> May 01, 2009 - August 31, 2009
+
+*Natural Language Processing at the textual level - noun phrase semantics.*
+
+* Developed new features for a Java-based number-interpreter system.
+* Worked with the General Architecture for Text Engineering (GATE) framework.
+* Wrote JAPE grammars.
+* Operating System used: Linux.
+* Supervisor: [Dr. Sabine Bergler](http://users.encs.concordia.ca/~bergler).
+
+
+### [Keenkong](http://isentium.com)
+#### Research and Software Development
+##### Montréal, Canada <> March 16, 2009 - April 31, 2009
+
+* Developed Java-based components to perform natural language processing tasks.
+* Researched on different ways of processing natural language texts for web applications involving social networking.
+* Worked with the GATE framework and Stanford parser.
+
+
+### [CLaC Laboratory, Computer Science Department, Concordia University](http://clac.cs.concordia.ca)
+#### Research Assistant
+##### Montréal, Canada <> May 01, 2008 - August 31, 2008
+
+*Natural Language Processing at the textual level - automatic text summarization.*
+
+* Performed work on a Java-based automatic text summarization legacy system.
+* Worked with the General Architecture for Text Engineering (GATE) framework.
+* Designed program modules in Java, tested the system extensively, and wrote bash scripts.
+* Operating System used: Linux.
+* Supervisor: [Dr. Sabine Bergler](http://users.encs.concordia.ca/~bergler).
+
+
+### [Theoretical Particle Physics, Physics Department, Concordia University](http://physics.concordia.ca)
+#### Research Assistant
+##### Montréal, Canada <> May 01, 2007 - August 31, 2007
+
+* Assisted cutting-edge research work involving high energy physics calculations (single top quark production).
+* Wrote programs to perform the calculations with specialized Mathematica software packages ([FeynArts](http://www.feynarts.de), [FormCalc](http://www.feynarts.de/formcalc), and [LoopTools](http://www.feynarts.de/looptools).
+* Operating System used: Linux.
+* Created and presented a poster on the research work.
+* Supervisors: [Dr. Mariana Frank](http://physics.concordia.ca/facultyandresearch/bios/mfrank.php) & [Dr. Ismail Turan](http://www.physics.metu.edu.tr/department/staff.html?q=TuranIsmail).
+
+
+## Honors and Awards
+* [Undergraduate Student Research Award (USRA)](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Natural Language Processing (Artificial Intelligence) at Concordia University, Summer 2009
+* [Undergraduate Student Research Award (USRA)](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Natural Language Processing (Artificial Intelligence) at Concordia University, Summer 2008
+* [Undergraduate Student Research Award (USRA)](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Computational High Energy Physics, at Concordia University, Summer 2007
+* Member of the [International Golden Key Honour Society](https://www.goldenkey.org/GKIHS) (since Fall 2006)
+* Dean's List 2007, Concordia University, Faculty of Engineering and Computer Science
+
+
+## Publication
+Sylvain Bellemare, Sabine Bergler, and René Witte. [ERSS at TAC 2008](http://www.nist.gov/tac/publications/2008/participant.papers/CLaC.proceedings.pdf). Text Analysis Conference (TAC), November 17-19, 2008, National Institute of Standards and Technology (NIST), Gaithersburg, Maryland, USA.
+
+
+## Poster Presentation
+Sylvain Bellemare. *Single Top Quark Production at LHC:  FeynArts-FormCalc-LoopTools at Work*. Presented at the Arts and Science Undergraduate Research Day, Concordia University, Spring 2008.
+
+
+## Languages
+French & English: spoken and written
 
