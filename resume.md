@@ -6,28 +6,36 @@
 * 49 151 281 65 675
 
 ## Academic Background
-### [Concordia University](http://www.cs.concordia.ca), Montréal, Canada
+### [Concordia University][], Montréal, Canada
 
 #### Bachelor of Computer Science, Honours Computer Applications, (2010)
 
 ##### Fields of application: physics and artificial intelligence
 
+[concordia university]: http://www.cs.concordia.ca
+
 
 ## Professional Experience
 
-### [Lieferheld GmbH](http://www.lieferheld.de)
+### [Lieferheld GmbH][]
 #### Python Backend Developer
 ##### Berlin, Germany <> February 2012 - July 2012
 
 * Python/Django web development with PostgreSQL/PostGIS.
 * Git and GitHub workflows for source code management.
 * Scrum/agile development method using JIRA.
-* Worked with API RESTful documentation tools: [source2swagger](https://github.com/solso/source2swagger), [swagger-ui](https://github.com/wordnik/swagger-ui), [swagger-codegen](https://github.com/wordnik/swagger-codegen) to document and test a [web.py](http://webpy.org) -based API, wired to a Django application.
-* Helped writing API documentation using [Sphinx](http://sphinx.pocoo.org).
+* Worked with API RESTful documentation tools: [source2swagger][], [swagger-ui][], [swagger-codegen][] to document and test a [web.py][] -based API, wired to a Django application.
+* Helped writing API documentation using [Sphinx][].
+
+[lieferheld gmbh]: http://www.lieferheld.de
+[source2swagger]: https://github.com/solso/source2swagger
+[swagger-ui]: https://github.com/wordnik/swagger-ui
+[swagger-codegen]: https://github.com/wordnik/swagger-codegen
+[web.py]: http://webpy.org
+[sphinx]: http://sphinx.pocoo.org
 
 
-
-### [Rockwell Automation](http://www.rockwellautomation.com)
+### [Rockwell Automation][]
 #### Software Developer & System Integrator
 ##### San Jose, California, & Karlsruhe, Germany <> April 2011 - January 2012
 
@@ -39,18 +47,20 @@
 
 **Note:** *Contracting work through Atachi Systems.*
 
+[Rockwell Automation]: http://www.rockwellautomation.com
 
-###[Align Technology](http://www.aligntech.com)
+
+###[Align Technology][]
 #### MES Software Engineer
 ##### San Jose, California <> July 2010 - March 2011
 
-*Software Engineering and System Administration work centered around a J2EE application: [FactoryTalk ProductionCentre](http://www.rockwellautomation.com/rockwellsoftware/production/productioncentre/), a [Manufacturing Execution System](http://en.wikipedia.org/wiki/Manufacturing_execution_system) software product by [Rockwell Automation](http://www.rockwellautomation.com/).*
+*Software Engineering and System Administration work centered around a J2EE application: [FactoryTalk ProductionCentre][ftpc], a [Manufacturing Execution System][mes] software product by [Rockwell Automation][].*
 
-* Design and implementation of software solutions (in [Pnuts](http://en.wikipedia.org/wiki/Pnuts)).
+* Design and implementation of software solutions (in [Pnuts][]).
 * Reverse-engineering of Enterprise Java Beans programs into Java Web Services programs. Developed and modified Java code.
 * Worked with the FTPC 8.1 Build Utility, to disassemble dsx files into xml structures, and to re-assemble xml files into dsx files.
 
-* Implementation of an [Apache Ant](http://ant.apache.org/) script, and multiple Bash scripts, to [automate](http://en.wikipedia.org/wiki/Automata_theory) part of the FTPC & JBoss installation/configuration procedures, on remote Linux servers.
+* Implementation of an [Apache Ant][ant] script, and multiple Bash scripts, to [automate][] part of the FTPC & JBoss installation/configuration procedures, on remote Linux servers.
 * Installation and configuration of FTPC 8.1 & 9.0, on JBoss/Linux platforms.
 * Installation and configuration of FTPC 9.0 Live Transfer & Purge, for the transfer & purging of data between production and historical databases.
 
@@ -58,15 +68,24 @@
 
 **Note:** *Contracting work through Atachi Systems.*
 
+[Align Technology]: http://www.aligntech.com
+[ftpc]: http://www.rockwellautomation.com/rockwellsoftware/production/productioncentre
+[mes]: http://en.wikipedia.org/wiki/Manufacturing_execution_system
+[Pnuts]: http://en.wikipedia.org/wiki/Pnuts
+[ant]: http://ant.apache.org
+[automate]: http://en.wikipedia.org/wiki/Automata_theory
 
-### [Atachi Systems](http://atachisystems.com/)
+
+### [Atachi Systems][atachi]
 #### Solution Engineer
 ##### San Jose, United States <> July 2010 - January 2012
 
 MES software engineer with a focus on FactoryTalk ProductionCenter from Rockwell Automation.
 
+[atachi]: http://atachisystems.com
 
-### [Atachi Enterprise Solutions](http://atachisystems.com/)
+
+### [Atachi Enterprise Solutions][atachi]
 #### Solution & Support Engineer
 ##### Montréal, Canada <> September 2009 - July 2010
 
@@ -76,7 +95,7 @@ MES software engineer with a focus on FactoryTalk ProductionCenter from Rockwell
 * FTPC support engineering work: Basic monitoring of interface managers, historical transfers, and purge operations.
 
 
-### [CLaC Laboratory, Computer Science Department, Concordia University](http://clac.cs.concordia.ca)
+### [CLaC Laboratory, Computer Science Department, Concordia University][clac]
 #### Research Assistant
 ##### Montréal, Canada <> May 01, 2009 - August 31, 2009
 
@@ -86,10 +105,13 @@ MES software engineer with a focus on FactoryTalk ProductionCenter from Rockwell
 * Worked with the General Architecture for Text Engineering (GATE) framework.
 * Wrote JAPE grammars.
 * Operating System used: Linux.
-* Supervisor: [Dr. Sabine Bergler](http://users.encs.concordia.ca/~bergler).
+* Supervisor: [Dr. Sabine Bergler][sabine]
+
+[cLac]: http://clac.cs.concordia.ca
+[sabine]: http://users.encs.concordia.ca/~bergler
 
 
-### [Keenkong](http://isentium.com)
+### [Keenkong][]
 #### Research and Software Development
 ##### Montréal, Canada <> March 16, 2009 - April 31, 2009
 
@@ -97,8 +119,10 @@ MES software engineer with a focus on FactoryTalk ProductionCenter from Rockwell
 * Researched on different ways of processing natural language texts for web applications involving social networking.
 * Worked with the GATE framework and Stanford parser.
 
+[keenkong]: http://isentium.com
 
-### [CLaC Laboratory, Computer Science Department, Concordia University](http://clac.cs.concordia.ca)
+
+### [CLaC Laboratory, Computer Science Department, Concordia University][clac]
 #### Research Assistant
 ##### Montréal, Canada <> May 01, 2008 - August 31, 2008
 
@@ -108,30 +132,42 @@ MES software engineer with a focus on FactoryTalk ProductionCenter from Rockwell
 * Worked with the General Architecture for Text Engineering (GATE) framework.
 * Designed program modules in Java, tested the system extensively, and wrote bash scripts.
 * Operating System used: Linux.
-* Supervisor: [Dr. Sabine Bergler](http://users.encs.concordia.ca/~bergler).
+* Supervisor: [Dr. Sabine Bergler][sabine]
 
 
-### [Theoretical Particle Physics, Physics Department, Concordia University](http://physics.concordia.ca)
+### [Theoretical Particle Physics, Physics Department, Concordia University][physics]
 #### Research Assistant
 ##### Montréal, Canada <> May 01, 2007 - August 31, 2007
 
 * Assisted cutting-edge research work involving high energy physics calculations (single top quark production).
-* Wrote programs to perform the calculations with specialized Mathematica software packages ([FeynArts](http://www.feynarts.de), [FormCalc](http://www.feynarts.de/formcalc), and [LoopTools](http://www.feynarts.de/looptools).
+* Wrote programs to perform the calculations with specialized Mathematica software packages ([FeynArts][], [FormCalc][], and [LoopTools][].
 * Operating System used: Linux.
 * Created and presented a poster on the research work.
-* Supervisors: [Dr. Mariana Frank](http://physics.concordia.ca/facultyandresearch/bios/mfrank.php) & [Dr. Ismail Turan](http://www.physics.metu.edu.tr/department/staff.html?q=TuranIsmail).
+* Supervisors: [Dr. Mariana Frank][] & [Dr. Ismail Turan][]
+
+[physics]: http://physics.concordia.ca
+[feynarts]: http://www.feynarts.de
+[formcalc]: http://www.feynarts.de/formcalc
+[looptools]: http://www.feynarts.de/looptools
+[Dr. Mariana Frank]: http://physics.concordia.ca/facultyandresearch/bios/mfrank.php
+[Dr. Ismail Turan]: http://www.physics.metu.edu.tr/department/staff.html?q=TuranIsmail
 
 
 ## Honors and Awards
-* [Undergraduate Student Research Award (USRA)](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Natural Language Processing (Artificial Intelligence) at Concordia University, Summer 2009
-* [Undergraduate Student Research Award (USRA)](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Natural Language Processing (Artificial Intelligence) at Concordia University, Summer 2008
-* [Undergraduate Student Research Award (USRA)](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Computational High Energy Physics, at Concordia University, Summer 2007
-* Member of the [International Golden Key Honour Society](https://www.goldenkey.org/GKIHS) (since Fall 2006)
+* [Undergraduate Student Research Award][usra] from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Natural Language Processing (Artificial Intelligence) at Concordia University, Summer 2009
+* [Undergraduate Student Research Award][usra] from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Natural Language Processing (Artificial Intelligence) at Concordia University, Summer 2008
+* [Undergraduate Student Research Award][usra] from the Natural Sciences and Engineering Research Council of Canada (NSERC), for research work in Computational High Energy Physics, at Concordia University, Summer 2007
+* Member of the [Golden Key International Honour Society][gkihs] (since Fall 2006)
 * Dean's List 2007, Concordia University, Faculty of Engineering and Computer Science
+
+[usra]: http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
+[gkihs]: https://www.goldenkey.org/GKIHS
 
 
 ## Publication
-Sylvain Bellemare, Sabine Bergler, and René Witte. [ERSS at TAC 2008](http://www.nist.gov/tac/publications/2008/participant.papers/CLaC.proceedings.pdf). Text Analysis Conference (TAC), November 17-19, 2008, National Institute of Standards and Technology (NIST), Gaithersburg, Maryland, USA.
+Sylvain Bellemare, Sabine Bergler, and René Witte. [ERSS at TAC 2008]. Text Analysis Conference (TAC), November 17-19, 2008, National Institute of Standards and Technology (NIST), Gaithersburg, Maryland, USA.
+
+[ERSS at TAC 2008]: http://www.nist.gov/tac/publications/2008/participant.papers/CLaC.proceedings.pdf
 
 
 ## Poster Presentation
