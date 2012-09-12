@@ -2,8 +2,12 @@
 # Sylvain Bellemare
 
 * [sbellem@gmail.com](mailto:sbellem@gmail.com)
-* <http://de.linkedin.com/in/sylvainbellemare>
-* 49 151 281 65 675
+* [code samples][]
+* [Linkedin profile][]
+* 49 (0) 151 281 65675
+
+[code samples]: https://gist.github.com/sbellem
+[Linkedin profile]: http://de.linkedin.com/in/sylvainbellemare
 
 ## Academic Background
 ### [Concordia University][], Montréal, Canada
