@@ -21,6 +21,32 @@
 
 ## Professional Experience
 
+### [ezeep GmbH][]
+#### Python/Django Search Backend Developer
+##### Berlin, Germany <> November 2012 - present
+
+* As a member of a small backend team (4 people), I am responsible for the design, development, and maintenance of the search backend. Some of the core technologies we work with on a daily basis are: 
+   * [Python][]
+   * [Django][]
+   * [MySQL][]
+   * [ElasticSearch][]
+   * [RabbitMQ][]
+   * [Git][]
+* We work with [Ubuntu][], and [MacOS X][] operating systems, and use [Vagrant][] to manage our development environments.
+
+[ezeep gmbh]: http://www.ezeep.com
+[python]: http://www.python.org
+[django]: https://www.djangoproject.com
+[elasticsearch]: http://www.elasticsearch.org
+[mysql]: http://www.mysql.com
+[rabbitmq]: http://www.rabbitmq.com
+[git]: http://git-scm.com
+[ubuntu]: http://www.ubuntu.com
+[macos x]: http://www.apple.com/osx/
+[vagrant]: http://www.vagrantup.com
+
+
+
 ### [Lieferheld GmbH][]
 #### Python Backend Developer
 ##### Berlin, Germany <> February 2012 - July 2012
